@@ -20,4 +20,4 @@ Some of the most relevant features from the WebAPP are:
 
 ## Explainable AI
 
-![XAI](iamges/XAI.png)
+![XAI](images/XAI.png)
